@@ -4199,8 +4199,11 @@ figure {
 
 .project-image {
   margin-bottom: 30px;
+   background: rgba(0, 0, 0, 0.5);
   box-shadow: 0 16px 25px 0 rgba(0, 0, 0, 0.1);
 }
+
+
 
 .project-title {
   margin-top: 0px;
