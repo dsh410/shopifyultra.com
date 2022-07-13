@@ -3133,6 +3133,10 @@ figure {
  
 }
 
+.intro-Video {
+  margin-top: 12%;
+}
+
 .button.small {
   padding: 12px 19px;
   font-size: 12px;
@@ -4004,6 +4008,11 @@ figure {
 
 .margin-100px {
   margin-top: 100px;
+
+}
+
+.margin-top-12{
+  margin-top: 12%;
 }
 
 .services-grid {
