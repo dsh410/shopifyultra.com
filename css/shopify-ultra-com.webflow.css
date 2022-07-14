@@ -6013,7 +6013,12 @@ figure {
     -webkit-flex-direction: column;
     -ms-flex-direction: column;
     flex-direction: column;
+    
   }
+
+  .black {
+    margin-top: 4%;
+  };
 
   .horizontal-divider {
     height: 20px;
